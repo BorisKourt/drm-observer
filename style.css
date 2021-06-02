@@ -33,12 +33,14 @@ a {
   max-width: 960px;
   width: 90%;
   padding: 3vmax 4vmax;
-  background: rgba(0,0,0,0.8);
   border-radius: 3em;
-  backdrop-filter:  blur(2px);
   box-shadow: 0 0 400px 10px #000;
-  border: 2px solid rgba(0,0,0,0.75);
+  border: 2px solid rgba(0,0,0,0.85);
   margin-bottom: 5vw;
+  background: rgba(0,0,0,0.75);
+  border-radius: 3em;
+  -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(20px);
 }
 
 .note {
