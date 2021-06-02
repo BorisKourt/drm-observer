@@ -15,6 +15,7 @@ body {
   color: #fff;
   line-height: 1.4em;
   text-shadow: 1px solid rgba(0,0,0,1);
+  background-color: #333;
 }
 
 a {
